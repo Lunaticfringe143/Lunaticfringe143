@@ -1,8 +1,55 @@
-- 👋 Hi, I’m @Lunaticfringe143 - 👀 I’m interested in ...Machine Learning and Artificial Intelligence
-- 📫 How to reach me ... Email : Gandhi.bashyam@yahoo.com Phone Number: +91-9535202224
+# Gandhi Bashyam
 
-About Me:
+AI Platform & Infrastructure Engineering (in transition)  
+Technical Lead — DevOps & Test Automation | 11+ years experience
 
-Machine Learning Engineer with background in independent research using intuitive, web-based architecture. Skilled in Python, Machine Learning/AI concepts and tools with documented history of discovering methods to intelligently use data to enhance user experience. Effectively researches techniques for novel approaches to problems, develops prototypes to assess viability of approach and deploys application into production yielding insights to expand customer-consciousness.
+---
 
+## What I Do
+I design and debug systems — especially where software meets infrastructure.
 
+My current focus:
+- Retrieval Augmented Generation (RAG) systems
+- LLM guardrails & evaluation
+- Distributed object storage (Ceph RGW internals)
+- Latency optimization & caching
+- Observability for AI systems
+
+---
+
+## Active Engineering Work
+🧠 Enterprise RAG Knowledge Assistant (building)  
+🏦 Banking Guardrailed Chatbot (building)  
+🗄 Ceph Internals & RGW Debugging Lab (active OSS investigation)
+
+---
+
+## Core Skills
+Languages: Python, Bash  
+Backend: FastAPI, REST APIs  
+Infra: Docker, Linux, CI/CD, Jenkins  
+Storage: Ceph, Object Storage Concepts  
+Data: PostgreSQL, Redis, Vector Databases  
+Concepts: System Design, Performance Optimization, Caching, Async Pipelines
+
+---
+
+## What I'm Working Towards
+AI/ML Infrastructure Engineer / GenAI Platform Engineer roles (2026)
+
+I enjoy understanding how systems fail, not just how they work.
+
+---
+
+## Current Learning Track
+- Building production-style GenAI applications (not notebooks)
+- RAG retrieval optimization (latency benchmarking)
+- Guardrails and safety in LLM systems
+- Distributed storage debugging (Ceph)
+
+---
+
+### Selected Work
+- Ceph OSS debugging & analysis
+- Resume parsing pipeline & API
+- Automation frameworks & infra tooling
